@@ -25,6 +25,6 @@ Support and contact details
 In case of any issues while using the system, users can reach out to the site developer using the following contacts:
 ## Contact Information
 Phone_Number: +254708541280
-Email: isaackirui45@gmail.com
+Email: isaac.kirui@student.moringaschool.com
 ## License
 Copyright@Kiruis-Portfolio. All rights Reserved. 2021.
