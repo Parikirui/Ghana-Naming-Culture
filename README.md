@@ -15,7 +15,7 @@ After a user has entered the system, he or she wil be required to enter the corr
 The website system (Kiruis-Portfolio) has no known bugs.
 
 ## Technologies Used
-The system was built using the following technologies:
+The web-based system was built using the following technologies:
 
 HTML5
 CCS3
