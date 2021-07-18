@@ -1,5 +1,5 @@
 ## Kiruis-Portfolio
-This system is called Ghana-Naming Culture.
+This system is called Ghana-Naming-Culture.
 
 ## Contributor
 Isaac Kirui Parikacha
