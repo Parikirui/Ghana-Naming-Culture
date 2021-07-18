@@ -1,0 +1,31 @@
+body{
+    background-color: cyan;
+}
+.right {
+    position: absolute;
+    right: 20px;
+    width: 600px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    height: 300px;
+  }
+.left {
+    position: absolute;
+    left: 20px;
+    width: 600px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    height: 300px;
+}
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    
+}
+p {
+    font-size: 17px;
+    font-weight: lighter;
+
+}
