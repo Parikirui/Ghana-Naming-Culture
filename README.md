@@ -1,4 +1,4 @@
-## Kiruis-Portfolio
+## Ghana-Naming-Culture
 This system is called Ghana-Naming-Culture.
 
 ## Contributor
