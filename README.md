@@ -8,6 +8,8 @@ Ghana-Naming Culture is a web based application that automaticaly gives Ghanian 
 
 ## Setup/Installation Requirements
 Users can access the system by entering the url of the website. The users do not need any installation when interacting with this portfolio. All they need is the site's url.
+## BDD
+After a user has entered the system, he or she wil be required to enter the correct date of birth as well as gender that are associated with him or her. Then he or she will be required to submit the details to find out the Ghanian name associated with him or her.
 
 ## Known Bugs
 The website system (Kiruis-Portfolio) has no known bugs.
